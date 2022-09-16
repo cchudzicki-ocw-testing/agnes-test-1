@@ -1,0 +1,32 @@
+{
+  "term": "Spring",
+  "year": "2111",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "agnes-test-1"
+  },
+  "course_image": {
+    "content": "",
+    "website": "agnes-test-1"
+  },
+  "course_title": "Agnes's course",
+  "course_description": "agnes's course",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "123",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "agnes-test-1"
+  },
+  "learning_resource_types": [
+    "Competition Videos"
+  ],
+  "site_uid": "11dd7849-95cb-4b30-9f26-bea7d3c9549f"
+}
